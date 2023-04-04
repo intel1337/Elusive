@@ -20,13 +20,20 @@
 - All of this using socks proxy so you're anonymous
 
 # Config
-```
+
 Step 1 - Open the script in a text editor
-Step 2 - Put your Proxy Infos Here ![image](https://user-images.githubusercontent.com/93615583/229851527-01d003a8-b4c4-4c38-8222-93a5eae2c4ba.png)
-Step 3 - Go on the HTML page of the target site and check if the login variables matches the variables in the script, if its not matching change the login value in the script by the site value ![image](https://user-images.githubusercontent.com/93615583/229851636-e970be34-c4a1-4e96-83a5-ad2f67154a8f.png)
+-
+Step 2 - Put your Proxy Infos Here 
+-
+![image](https://user-images.githubusercontent.com/93615583/229851527-01d003a8-b4c4-4c38-8222-93a5eae2c4ba.png)
+-
+Step 3 - Go on the HTML page of the target site and check if the login variables matches the variables in the script, if its not matching change the login value in the script by the site value 
+-
+![image](https://user-images.githubusercontent.com/93615583/229851636-e970be34-c4a1-4e96-83a5-ad2f67154a8f.png)
+-
 Step 4 - Change myusername and mypassword with your logs
 
-```
+
 ## Start 
 ```
 - Open start.bat 
