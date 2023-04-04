@@ -23,6 +23,8 @@
 
 Step 1 - Open the script in a text editor
 -
+![image](https://user-images.githubusercontent.com/93615583/229853081-011660cf-14de-4473-8032-86deabfa73ec.png)
+-
 Step 2 - Put your Proxy Infos Here 
 -
 ![image](https://user-images.githubusercontent.com/93615583/229851527-01d003a8-b4c4-4c38-8222-93a5eae2c4ba.png)
@@ -32,7 +34,9 @@ Step 3 - Go on the HTML page of the target site and check if the login variables
 ![image](https://user-images.githubusercontent.com/93615583/229851636-e970be34-c4a1-4e96-83a5-ad2f67154a8f.png)
 -
 Step 4 - Change myusername and mypassword with your logs
-
+-
+![image](https://user-images.githubusercontent.com/93615583/229853269-70d6c2bd-e1f6-4ce6-ad04-ef63fe8f81c9.png)
+-
 
 ## Start 
 ```
